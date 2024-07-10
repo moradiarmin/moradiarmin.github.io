@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Armin Moradi"
   pronouns         : "he/him" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : ""
   location         : "Montréal, QC"
   employer         : "Mila Quebec AI Institute"
   uri              : # URL
