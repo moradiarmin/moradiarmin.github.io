@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Armin Moradi - Machine Learning Engineer and Data Scientist"
+title: "Armin Moradi"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to the personal website of **Armin Moradi**, a passionate Machine Learning Engineer and Data Scientist based in Montréal, QC, Canada. 
+Welcome to the personal website of **Armin Moradi**, a Machine Learning Engineer and Data Scientist based in Montréal, QC, Canada. 
 
 ## About Me
 
