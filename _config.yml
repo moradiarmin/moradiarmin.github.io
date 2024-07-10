@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Armin Moradi"
+title                    : "Armin's Website"
 title_separator          : "-"
 name                     : &name "Armin Moradi"
 description              : &description "personal description"
