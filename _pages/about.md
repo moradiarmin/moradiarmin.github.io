@@ -11,6 +11,6 @@ Welcome to the personal website of **Armin Moradi**, a passionate Machine Learni
 
 ## About Me
 
-I am currently a Machine Learning Intern at [CEIMIA](https://www.ceimia.org/), Québec’s leading organization in the responsible development of artificial intelligence. I am also a Machine Learning Researcher at [Mila](https://mila.quebec/en/), the Quebec AI Institute, where I am a member of the EQUAL Lab, focusing on Fairness and Cultural alignment in Recommender Systems.
+I am currently a Machine Learning Intern at [CEIMIA](https://www.ceimia.org/), Québec’s leading organization in the responsible development of artificial intelligence. I am also a Research Master's student at [Mila](https://mila.quebec/en/), the Quebec AI Institute, where I am a member of the EQUAL Lab, focusing on Fairness and Cultural alignment in Recommender Systems.
 
-I hold a Master of Science in Computer Science with an Artificial Intelligence Specialization from Université de Montréal / Mila Quebec AI Institute and a Bachelor of Science in Computer Engineering from Sharif University of Technology. My work spans various projects, publications, and presentations, contributing significantly to the field of AI and Machine Learning.
+Prior to my bachelor's, I used to worked as a data scientist for less than two years. I hold a Bachelor of Science in Computer Engineering from Sharif University of Technology and I also previously interned at Technical University of Munich. Beyond AI, I geek out over Jazz and Persian Regional music, where I engage in creation and improvisation.
