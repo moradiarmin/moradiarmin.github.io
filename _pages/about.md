@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my little personal space! It's me, **Armin**. I'm an AI practitioner based in Montréal, Quebec.
+Welcome to my little personal space! It's me, **Armin**. I'm an AI practitioner based in Montréal, Quebec.  
+
 Bienvenue dans mon petit espace personnel ! C'est moi, Armin. Je suis un praticien de l'IA basé à Montréal, Québec.
 
-## About Me
+### About Me
 
 I am currently a Machine Learning Intern at [CEIMIA](https://www.ceimia.org/), Québec’s leading organization in the responsible development of artificial intelligence. I am also a Research Master's student at [Mila](https://mila.quebec/en/), the Quebec AI Institute, where I am a member of the [EQUAL Lab](https://gfarnadi.github.io/student.html), focusing on Fairness and Cultural alignment in Recommender Systems.
 
