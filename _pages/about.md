@@ -12,7 +12,7 @@ Bienvenue dans mon petit espace personnel ! C'est moi, Armin. Je suis un pratici
 
 ## About Me
 
-I am currently a Machine Learning Intern at [CEIMIA](https://www.ceimia.org/), Québec’s leading organization in the responsible development of artificial intelligence. I am also a Research Master's student at [Mila](https://mila.quebec/en/), the Quebec AI Institute, where I am a member of the EQUAL Lab, focusing on Fairness and Cultural alignment in (Music) Recommender Systems.
+I am currently a Machine Learning Intern at [CEIMIA](https://www.ceimia.org/), Québec’s leading organization in the responsible development of artificial intelligence. I am also a Research Master's student at [Mila](https://mila.quebec/en/), the Quebec AI Institute, where I am a member of the [EQUAL Lab](https://gfarnadi.github.io/student.html), focusing on Fairness and Cultural alignment in Recommender Systems.
 
 Before starting my master's, I spent nearly two years in the industry working as a data scientist. I earned my bachelor's degree in Computer Engineering from Sharif University of Technology, where I also interned at the Technical University of Munich, working on music and AI.
 
